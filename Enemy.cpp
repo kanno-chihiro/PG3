@@ -32,3 +32,4 @@ void Enemy::kRelease()
 	printf("—£’E\n");
 
 }
+
