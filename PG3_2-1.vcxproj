@@ -129,15 +129,21 @@
   <ItemGroup>
     <ClCompile Include="Ambulance.cpp" />
     <ClCompile Include="Car.cpp" />
+    <ClCompile Include="Circle.cpp" />
     <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="IShape.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Policecar.cpp" />
+    <ClCompile Include="Rectangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ambulance.h" />
     <ClInclude Include="Car.h" />
+    <ClInclude Include="Circle.h" />
     <ClInclude Include="Enemy.h" />
+    <ClInclude Include="IShape.h" />
     <ClInclude Include="Policecar.h" />
+    <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
